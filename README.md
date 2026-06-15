@@ -96,9 +96,9 @@ It provides:
 - Spring JDBC  
 - REST APIs  
 🧠 AI Layer
-Ollama
-LLaMA 3 (Local LLM)
-Spring AI ChatClient
+- Ollama
+- LLaMA 3 (Local LLM)
+- Spring AI ChatClient
 🗄️ Database
 MySQL
 🐍 Data & Visualization
