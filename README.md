@@ -14,6 +14,11 @@ The Car Sales AI Advisor is a real-world intelligent analytics system built usin
 📊 Streamlit (Interactive Dashboard)
 🗄️ MySQL (Database)
 
+🏠 Application Preview
+### 📊 Dashboard UI
+
+![Dashboard](screenshots/dashboard.png)
+
 It provides:
 
 🚀 AI-powered car recommendations + sales analytics + dynamic SQL generation system
@@ -58,27 +63,30 @@ It provides:
 🖼️ Screenshot:
 👉 View Dashboard Screenshot
 
+![Dashboard](screenshots/dashboard.png)
+           
 📊 Sales Analytics Graphs
-
+![Dashboard](screenshots/dashboard.png)
 📍 URL: http://localhost:8501
 
 🖼️ Screenshot:
 👉 View Analytics Screenshot
-
+  ![Dashboard](screenshots/dashboard.png)
 ⚙️ Spring Boot API Response
 
 📍 URL: http://localhost:8081/api/cars
-
+ 
 🖼️ Screenshot:
 👉 View API Screenshot
-
+   ![Dashboard](screenshots/dashboard.png)
 🧠 AI Query Flow
 
 📍 URL: http://localhost:8081/api/ai/query
 
 🖼️ Screenshot:
 👉 View AI Flow Screenshot
-
+   ![Dashboard](screenshots/dashboard.png)
+   
 🧩 Tech Stack
 ⚙️ Backend
 Java 17+
