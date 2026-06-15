@@ -55,11 +55,11 @@ It provides:
          ↓
 * ⚡ Spring JDBC Executor
          ↓
- *🗄️ MySQL Database
+* 🗄️ MySQL Database
          ↓
 * 🤖 AI Response Formatter
          ↓
- *📊 Streamlit Dashboard
+* 📊 Streamlit Dashboard
 ```
 ---
 
@@ -69,32 +69,45 @@ It provides:
 
 ## 🖥️ Dashboard UI (Streamlit)
 
-📍 URL: http://localhost:8501
+| Module               | URL                               |
+| -------------------  | --------------------------------- |
+| 🏠 Main Application  | http://localhost:8080/home        |
 
 🖼️ Screenshot:
 👉 View Dashboard Screenshot
 
 ![Dashboard](screenshots/dashboard.png)
-           
-📊 Sales Analytics Graphs
+
+---
+
+## 📊 Sales Analytics Graphs
 ![Dashboard](screenshots/dashboard.png)
 📍 URL: http://localhost:8501
 
-🖼️ Screenshot:
+---
+
+## 🖼️ Screenshot:
 👉 View Analytics Screenshot
   ![Dashboard](screenshots/dashboard.png)
-⚙️ Spring Boot API Response
+
+---
+## ⚙️ Spring Boot API Response
 
 📍 URL: http://localhost:8081/api/cars
- 
-🖼️ Screenshot:
+
+---
+
+## 🖼️ Screenshot:
 👉 View API Screenshot
    ![Dashboard](screenshots/dashboard.png)
-🧠 AI Query Flow
+   
+---
+
+## 🧠 AI Query Flow
 
 📍 URL: http://localhost:8081/api/ai/query
 
-🖼️ Screenshot:
+## 🖼️ Screenshot:
 👉 View AI Flow Screenshot
    ![Dashboard](screenshots/dashboard.png)
 
