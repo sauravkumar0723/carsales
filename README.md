@@ -179,19 +179,21 @@ It provides:
 
 Car-Sales-AI-Advisor/
 │
-├── src/main/java/
-│   ├── controller/
-│   ├── service/
-│   ├── repository/
-│   ├── entity/
-│   ├── dto/
-│   ├── exception/
-│   └── config/
-│
-├── src/main/resources/
-│   ├── templates/
-│   ├── static/
-│   └── application.properties
+├── src/
+│   └── main/
+│       ├── java/
+│       │   ├── controller/
+│       │   ├── service/
+│       │   ├── repository/
+│       │   ├── entity/
+│       │   ├── dto/
+│       │   ├── exception/
+│       │   └── config/
+│       │
+│       └── resources/
+│           ├── templates/
+│           ├── static/
+│           └── application.properties
 │
 ├── ai-python/
 │   ├── streamlit-app/
