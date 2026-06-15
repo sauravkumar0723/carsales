@@ -176,7 +176,7 @@ It provides:
 ---
 
 ## 📂 Project Structure
-
+```bash
 Car-Sales-AI-Advisor/
 │
 ├── src/
@@ -212,6 +212,7 @@ Car-Sales-AI-Advisor/
 │   └── service.png
 │
 └── README.md
+```
  ---
 🚀 How to Run Locally
 1️⃣ Clone Repository
