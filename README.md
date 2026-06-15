@@ -15,6 +15,8 @@ The Car Sales AI Advisor is a real-world intelligent analytics system built usin
 📊 Streamlit (Interactive Dashboard)
 🗄️ MySQL (Database)
 
+---
+
 🏠 Application Preview
 ### 📊 Dashboard UI
 
@@ -23,6 +25,8 @@ The Car Sales AI Advisor is a real-world intelligent analytics system built usin
 It provides:
 
 🚀 AI-powered car recommendations + sales analytics + dynamic SQL generation system
+
+---
 
 🌟 Key Highlights
 
@@ -34,6 +38,8 @@ It provides:
 ✔ Interactive dashboard (Streamlit)
 ✔ Clean layered Spring Boot architecture
 ✔ End-to-end full-stack AI system
+
+---
 
 🏗️ System Architecture
 👤 User (Streamlit UI)
@@ -87,7 +93,10 @@ It provides:
 🖼️ Screenshot:
 👉 View AI Flow Screenshot
    ![Dashboard](screenshots/dashboard.png)
-   
+
+
+---
+
 ## 🧩 Tech Stack
 
 ⚙️ Backend  
@@ -96,22 +105,32 @@ It provides:
 - Spring AI  
 - Spring JDBC  
 - REST APIs
-   
+
+---
+
 🧠 AI Layer
 - Ollama
 - LLaMA 3 (Local LLM)
 - Spring AI ChatClient
-  
+
+  ---
+
 🗄️ Database
 - MySQL
-  
+
+---
+
 🐍 Data & Visualization
 - Plotly
 - Matplotlib
 - Jupyter Notebook
 
+---
+
 🎨 Frontend
 - Streamlit
+
+---
 
 🔐 Core Features
 
@@ -120,22 +139,30 @@ It provides:
 - Data validation & cleaning
 - Store into MySQL database
 
+---
+
 ⚙️ Backend System
 - REST API architecture
 - Controller → Service → Repository flow
 - Global Exception Handling
 - Standard API Response structure
 
+
+---
+
 🧠 AI Intelligence
 - Natural language input
 - AI generates SQL dynamically
 - Spring JDBC executes queries
 - AI formats final response
+---
 
 📈 Analytics Dashboard
 - Year-wise sales analysis
 - Monthly trend analysis
 - Interactive graphs
+
+---
 
 🔑 Key Functionalities
 
@@ -145,6 +172,8 @@ It provides:
 - Session-like flow via API
 - Database-driven architecture
 - Clean MVC-style backend design
+
+---
 
 📂 Project Structure
 src/main/java
@@ -174,25 +203,37 @@ screenshots/
  ├── analytics.png
  ├── api-response.png
  ├── ai-flow.png
+ 
+ ---
 🚀 How to Run Locally
 1️⃣ Clone Repository
 git clone https://github.com/your-username/car-sales-ai-advisor.git
+---
+
 2️⃣ Configure Database
 spring.datasource.url=jdbc:mysql://localhost:3306/car_sales_db
 spring.datasource.username=root
 spring.datasource.password=your_password
+
+---
+
 3️⃣ Run Spring Boot Backend
 mvn spring-boot:run
 
 Backend runs on:
 
 http://localhost:8081
+
+---
 4️⃣ Run Streamlit UI
 streamlit run app.py
 
 UI runs on:
 
 http://localhost:8501
+
+---
+
 📊 Engineering Highlights
 
 ✔ Real AI integration (not chatbot only)
@@ -202,6 +243,8 @@ http://localhost:8501
 ✔ Real-time analytics dashboard
 ✔ End-to-end intelligent workflow
 
+---
+
 🎯 Skills Demonstrated
 Spring Boot Development
 Spring AI Integration
@@ -210,6 +253,9 @@ MySQL Database Design
 Python Data Analytics
 Streamlit Dashboard Development
 AI System Architecture
+
+---
+
 📸 Screenshot Folder Structure
 screenshots/
  ├── dashboard.png
@@ -220,8 +266,12 @@ screenshots/
  ├── service.png
 👨‍💻 Developer
 
+---
+
 Car Sales AI Advisor Project
 Built with ⚙️ Spring Boot + 🧠 AI + 🐍 Python
+
+---
 
 ⭐ Project Status
 
@@ -229,6 +279,8 @@ Built with ⚙️ Spring Boot + 🧠 AI + 🐍 Python
 ✔ Fully Functional
 ✔ Portfolio Ready
 ✔ Recruiter Friendly
+
+---
 
 📜 License
 
