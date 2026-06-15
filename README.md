@@ -100,42 +100,40 @@ It provides:
 - LLaMA 3 (Local LLM)
 - Spring AI ChatClient
 🗄️ Database
-MySQL
+- MySQL
 🐍 Data & Visualization
-Python
-Pandas
-Plotly
-Matplotlib
-Jupyter Notebook
+- Plotly
+- Matplotlib
+- Jupyter Notebook
 🎨 Frontend
-Streamlit
+- Streamlit
 🔐 Core Features
 📊 Data Pipeline
-CSV upload via API
-Data validation & cleaning
-Store into MySQL database
+- CSV upload via API
+- Data validation & cleaning
+- Store into MySQL database
 ⚙️ Backend System
-REST API architecture
-Controller → Service → Repository flow
-Global Exception Handling
-Standard API Response structure
+- REST API architecture
+- Controller → Service → Repository flow
+- Global Exception Handling
+- Standard API Response structure
 🧠 AI Intelligence
-Natural language input
-AI generates SQL dynamically
-Spring JDBC executes queries
-AI formats final response
+- Natural language input
+- AI generates SQL dynamically
+- Spring JDBC executes queries
+- AI formats final response
 📈 Analytics Dashboard
-Year-wise sales analysis
-Monthly trend analysis
-Interactive graphs
+- Year-wise sales analysis
+- Monthly trend analysis
+- Interactive graphs
 🔑 Key Functionalities
 
-✔ CRUD Operations
-✔ File Upload System
-✔ AI Query System
-✔ Session-like flow via API
-✔ Database-driven architecture
-✔ Clean MVC-style backend design
+- CRUD Operations
+- File Upload System
+- AI Query System
+- Session-like flow via API
+- Database-driven architecture
+- Clean MVC-style backend design
 
 📂 Project Structure
 src/main/java
