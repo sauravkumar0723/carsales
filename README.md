@@ -218,7 +218,7 @@ Car-Sales-AI-Advisor/
  
 ### 1️⃣ Clone Repository
 ```bash id="clone01"
-git clone https://github.com/your-username/car-sales-ai-advisor.git
+git clone [https://github.com/your-username/car-sales-ai-advisor.git]
 ```
 ---
 
