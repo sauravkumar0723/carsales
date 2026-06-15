@@ -99,7 +99,7 @@ It provides:
 
 ## 🧩 Tech Stack
 
-⚙️ Backend  
+###⚙️ Backend  
 - Java 17+  
 - Spring Boot  
 - Spring AI  
@@ -108,40 +108,40 @@ It provides:
 
 ---
 
-🧠 AI Layer
+### 🧠 AI Layer
 - Ollama
 - LLaMA 3 (Local LLM)
 - Spring AI ChatClient
 
   ---
 
-🗄️ Database
+### 🗄️ Database
 - MySQL
 
 ---
 
-🐍 Data & Visualization
+### 🐍 Data & Visualization
 - Plotly
 - Matplotlib
 - Jupyter Notebook
 
 ---
 
-🎨 Frontend
+### 🎨 Frontend
 - Streamlit
 
 ---
 
-🔐 Core Features
+### 🔐 Core Features
 
-📊 Data Pipeline
+### 📊 Data Pipeline
 - CSV upload via API
 - Data validation & cleaning
 - Store into MySQL database
 
 ---
 
-⚙️ Backend System
+### ⚙️ Backend System
 - REST API architecture
 - Controller → Service → Repository flow
 - Global Exception Handling
@@ -150,21 +150,21 @@ It provides:
 
 ---
 
-🧠 AI Intelligence
+### 🧠 AI Intelligence
 - Natural language input
 - AI generates SQL dynamically
 - Spring JDBC executes queries
 - AI formats final response
 ---
 
-📈 Analytics Dashboard
+### 📈 Analytics Dashboard
 - Year-wise sales analysis
 - Monthly trend analysis
 - Interactive graphs
 
 ---
 
-🔑 Key Functionalities
+### 🔑 Key Functionalities
 
 - CRUD Operations
 - File Upload System
@@ -214,58 +214,68 @@ Car-Sales-AI-Advisor/
 └── README.md
 ```
  ---
-🚀 How to Run Locally
-1️⃣ Clone Repository
+ ## 🚀 How to Run Locally
+ 
+### 1️⃣ Clone Repository
+```bash id="clone01"
 git clone https://github.com/your-username/car-sales-ai-advisor.git
+```
 ---
 
-2️⃣ Configure Database
-spring.datasource.url=jdbc:mysql://localhost:3306/car_sales_db
+### 2️⃣ Configure Database
+
+Update `application.properties`
+
+```properties id="dbconfig01"
+spring.datasource.url=jdbc:mysql://localhost:3306/carsales
 spring.datasource.username=root
-spring.datasource.password=your_password
-
+spring.datasource.password=Saurav@123
+```
 ---
 
-3️⃣ Run Spring Boot Backend
-mvn spring-boot:run
+### 3️⃣ Run Spring Boot Backend
+Excute:
 
+```bash id="runapp01"
 Backend runs on:
 
 http://localhost:8081
-
+```
 ---
-4️⃣ Run Streamlit UI
-streamlit run app.py
+### 4️⃣ Run Streamlit UI
 
+```bash id="stream02"
+streamlit run app.py
 UI runs on:
 
 http://localhost:8501
+```
+---
+
+## 📊 Engineering Highlights
+
+* Real AI integration (not chatbot only)
+* Dynamic SQL generation using LLM
+* Full-stack Spring Boot + Python system
+* Production-level backend structure
+* Real-time analytics dashboard
+* End-to-end intelligent workflow
 
 ---
 
-📊 Engineering Highlights
-
-✔ Real AI integration (not chatbot only)
-✔ Dynamic SQL generation using LLM
-✔ Full-stack Spring Boot + Python system
-✔ Production-level backend structure
-✔ Real-time analytics dashboard
-✔ End-to-end intelligent workflow
-
----
-
-🎯 Skills Demonstrated
-Spring Boot Development
-Spring AI Integration
-JDBC Dynamic Query Execution
-MySQL Database Design
-Python Data Analytics
-Streamlit Dashboard Development
-AI System Architecture
+### 🎯 Skills Demonstrated
+* Spring Boot Development
+* Spring AI Integration
+* JDBC Dynamic Query Execution
+* MySQL Database Design
+* Python Data Analytics
+* Streamlit Dashboard Development
+* AI System Architecture
 
 ---
 
-📸 Screenshot Folder Structure
+## 📸 Project Structure
+```bash id="projectstructure01"
 screenshots/
  ├── dashboard.png
  ├── analytics.png
@@ -274,15 +284,22 @@ screenshots/
  ├── controller.png
  ├── service.png
 👨‍💻 Developer
+```
+---
+
+## Car Sales AI Advisor Project
+✔ Built with ⚙️ Spring Boot + 🧠 AI + 🐍 Python
 
 ---
 
-Car Sales AI Advisor Project
-Built with ⚙️ Spring Boot + 🧠 AI + 🐍 Python
+## 👨‍💻 Developer
+
+**Saurav Kumar**
+Java | Spring Boot | Backend Developer | REST APIs | MATTPLOT| Juypter notebook | My SQL
 
 ---
 
-⭐ Project Status
+## ⭐ Project Status
 
 ✔ Completed
 ✔ Fully Functional
@@ -291,6 +308,6 @@ Built with ⚙️ Spring Boot + 🧠 AI + 🐍 Python
 
 ---
 
-📜 License
+## 📜 License
 
 This project is developed for learning and educational purposes only.
