@@ -20,11 +20,11 @@ The Car Sales AI Advisor is a real-world intelligent analytics system built usin
 ## 🏠 Application Preview
 ### 📊 Dashboard UI
 
-![Dashboard](screenshots/dashboard.png)
+| Module               | URL                                               |
+| -------------------  | ------------------------------------------------- |
+| 🏠 Main Application  | http://localhost:8501/#yearly-car-sales-analysis  |
 
-It provides:
-
-🚀 AI-powered car recommendations + sales analytics + dynamic SQL generation system
+<img src="https://github.com/user-attachments/assets/ed2978e6-04aa-4c9a-9d33-280716e8960d" width="800"/>
 
 ---
 
@@ -65,52 +65,62 @@ It provides:
 
 ## 📸 Application Screenshots
 
-📌 Add your screenshots here (store inside /screenshots folder)
+- 📌 Add your screenshots here
 
-## 🖥️ Dashboard UI (Streamlit)
+### 🖥️ Dashboard UI (Streamlit)
 
-| Module               | URL                               |
-| -------------------  | --------------------------------- |
-| 🏠 Main Application  | http://localhost:8080/home        |
+| Module               | URL                                              |
+| -------------------  | ------------------------------------------------ |
+| 🏠 Main Application  | http://localhost:8501/#yearly-car-sales-analysis |
 
-🖼️ Screenshot:
-👉 View Dashboard Screenshot
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/71ad003b-bf2e-4a1b-99a1-215474df345c)
 
 ---
 
-## 📊 Sales Analytics Graphs
-![Dashboard](screenshots/dashboard.png)
-📍 URL: http://localhost:8501
+### 📈 Yearly Car Sales Analysis
+| Module               | URL                                              |
+| -------------------  | ------------------------------------------------ |
+| 📊 Year Sales Graph  | http://localhost:8080/api/car-sales/yearly-count |
+
+![Year Wise Count](https://github.com/user-attachments/assets/3b22bfc2-be31-4283-8597-b0f4d424de2a)
+
+--- 
+### 📅 Monthly Sales Analysis
+| Module                | URL                                                         |
+| -------------------   | ----------------------------------------------------------- |
+| 📊 Month Sales Graph  | http://localhost:8080/api/car-sales/monthly-count?year=2024 |
+
+![Monthly Sales](https://github.com/user-attachments/assets/748f7657-541b-41c2-8ebd-bdf482a02cb6)
+
+---
+### jyupter Notebook
+
+![Jupyter Notebook](https://github.com/user-attachments/assets/ce5c8389-a7c1-4533-91c5-af25c01c7b62)
 
 ---
 
-## 🖼️ Screenshot:
-👉 View Analytics Screenshot
-  ![Dashboard](screenshots/dashboard.png)
-
----
 ## ⚙️ Spring Boot API Response
 
-📍 URL: http://localhost:8081/api/cars
+-📍 URL: http://localhost:8080/api/car-sales
 
----
-
-## 🖼️ Screenshot:
 👉 View API Screenshot
-   ![Dashboard](screenshots/dashboard.png)
+
+| Module               | URL                                                         |
+| -------------------  | ----------------------------------------------------------- |
+| 📊 Year Sales Graph  | http://localhost:8080/api/car-sales/monthly-count?year=2024 |
+| 📊 Month Sales Graph | http://localhost:8080/api/car-sales/monthly-count?year=2024 |
+| 📊 Upload csv        | http://localhost:8080/api/car-sales/upload-csv              |
+
+  ![API](https://github.com/user-attachments/assets/ffa96fcb-2f5d-4c8a-a6a9-893aa55b776a)
    
 ---
 
 ## 🧠 AI Query Flow
 
-📍 URL: http://localhost:8081/api/ai/query
+-📍 URL: localhost:8080/api/ai/ask
 
-## 🖼️ Screenshot:
-👉 View AI Flow Screenshot
-   ![Dashboard](screenshots/dashboard.png)
-
+👉 Query Generate
+![Query](https://github.com/user-attachments/assets/744ed645-ab89-4e1e-99a8-82c7d413dcad)
 
 ---
 
