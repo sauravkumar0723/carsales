@@ -94,20 +94,26 @@ It provides:
 - Spring Boot  
 - Spring AI  
 - Spring JDBC  
-- REST APIs  
+- REST APIs
+   
 🧠 AI Layer
 - Ollama
 - LLaMA 3 (Local LLM)
 - Spring AI ChatClient
+  
 🗄️ Database
 - MySQL
+  
 🐍 Data & Visualization
 - Plotly
 - Matplotlib
 - Jupyter Notebook
+
 🎨 Frontend
 - Streamlit
+
 🔐 Core Features
+
 📊 Data Pipeline
 - CSV upload via API
 - Data validation & cleaning
