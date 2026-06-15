@@ -1,23 +1,23 @@
-🚗 Car Sales Analytics AI Advisor
+# 🚗 Car Sales Analytics AI Advisor
 Spring Boot + AI + Python Library Full-Stack Analytics System
 
 An end-to-end AI-powered Car Sales Analytics & Recommendation System that combines:
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Car Sales AI Advisor is a real-world intelligent analytics system built using:
 
-⚙️ Spring Boot (Backend APIs)
-🧠 Spring AI + LLaMA (Ollama Local AI)
-🐍 Python (Data Analytics & Visualization)
-📊 Streamlit (Interactive Dashboard)
-🗄️ MySQL (Database)
+* ⚙️ Spring Boot (Backend APIs)
+* 🧠 Spring AI + LLaMA (Ollama Local AI)
+* 🐍 Python (Data Analytics & Visualization)
+* 📊 Streamlit (Interactive Dashboard)
+* 🗄️ MySQL (Database)
 
 ---
 
-🏠 Application Preview
+## 🏠 Application Preview
 ### 📊 Dashboard UI
 
 ![Dashboard](screenshots/dashboard.png)
@@ -28,16 +28,16 @@ It provides:
 
 ---
 
-🌟 Key Highlights
+## 🌟 Key Highlights
 
-✔ AI converts natural language → SQL
-✔ Real-time database-driven insights
-✔ Car sales analytics (yearly/monthly trends)
-✔ AI-based car recommendation system
-✔ CSV upload & processing
-✔ Interactive dashboard (Streamlit)
-✔ Clean layered Spring Boot architecture
-✔ End-to-end full-stack AI system
+* AI converts natural language → SQL
+* Real-time database-driven insights
+* Car sales analytics (yearly/monthly trends)
+* AI-based car recommendation system
+* CSV upload & processing
+* Interactive dashboard (Streamlit)
+* Clean layered Spring Boot architecture
+* End-to-end full-stack AI system
 
 ---
 
