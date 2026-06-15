@@ -175,35 +175,41 @@ It provides:
 
 ---
 
-📂 Project Structure
-src/main/java
- ├── controller
- ├── service
- ├── repository
- ├── entity
- ├── dto
- ├── exception
- └── config
+## 📂 Project Structure
 
-src/main/resources
- ├── templates (optional)
- ├── static
- └── application.properties
-
-ai-python/
- ├── streamlit-app
- ├── notebooks
- ├── visualization
-
-database/
- └── schema.sql
-
-screenshots/
- ├── dashboard.png
- ├── analytics.png
- ├── api-response.png
- ├── ai-flow.png
- 
+Car-Sales-AI-Advisor/
+│
+├── src/main/java/
+│   ├── controller/
+│   ├── service/
+│   ├── repository/
+│   ├── entity/
+│   ├── dto/
+│   ├── exception/
+│   └── config/
+│
+├── src/main/resources/
+│   ├── templates/
+│   ├── static/
+│   └── application.properties
+│
+├── ai-python/
+│   ├── streamlit-app/
+│   ├── notebooks/
+│   └── visualization/
+│
+├── database/
+│   └── schema.sql
+│
+├── screenshots/
+│   ├── dashboard.png
+│   ├── analytics.png
+│   ├── api-response.png
+│   ├── ai-flow.png
+│   ├── controller.png
+│   └── service.png
+│
+└── README.md
  ---
 🚀 How to Run Locally
 1️⃣ Clone Repository
