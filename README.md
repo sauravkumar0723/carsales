@@ -3,6 +3,7 @@ Spring Boot + AI + Python Library Full-Stack Analytics System
 
 An end-to-end AI-powered Car Sales Analytics & Recommendation System that combines:
 
+---
 
 📌 Project Overview
 
