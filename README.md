@@ -42,6 +42,7 @@ It provides:
 ---
 
 ## 🏗️ System Architecture
+```
  * 👤 User (Streamlit UI)
          ↓
  *🐍 Python (Pandas + Requests)
@@ -59,7 +60,7 @@ It provides:
 * 🤖 AI Response Formatter
          ↓
  *📊 Streamlit Dashboard
-
+```
 ---
 
 ## 📸 Application Screenshots
