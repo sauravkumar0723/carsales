@@ -1,4 +1,4 @@
-# 🚗 Car Sales Analytics AI Advisor
+# 🚗 Car Sales Analytics + AI Advisor
 Spring Boot + AI + Python Library Full-Stack Analytics System
 - This project is a data-driven Car Sales Dashboard built using SpringBoot, RestAPIs, Streamlit, Matplot, and data visualization libraries. 
 - It helps analyze car sales data through an interactive web interface, providing insights such as monthly sales trends, yearly performance, and overall market behavior.
