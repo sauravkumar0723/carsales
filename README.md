@@ -41,29 +41,32 @@ It provides:
 
 ---
 
-🏗️ System Architecture
-👤 User (Streamlit UI)
-        ↓
-🐍 Python (Pandas + Requests)
-        ↓
-⚙️ Spring Boot REST APIs
-        ↓
-🧠 Spring AI (LLaMA via Ollama)
-        ↓
-🔄 SQL Generation Engine
-        ↓
-⚡ Spring JDBC Executor
-        ↓
-🗄️ MySQL Database
-        ↓
-🤖 AI Response Formatter
-        ↓
-📊 Streamlit Dashboard
-📸 Application Screenshots
+## 🏗️ System Architecture
+ * 👤 User (Streamlit UI)
+         ↓
+ *🐍 Python (Pandas + Requests)
+         ↓
+* ⚙️ Spring Boot REST APIs
+         ↓
+* 🧠 Spring AI (LLaMA via Ollama)
+         ↓
+* 🔄 SQL Generation Engine
+         ↓
+* ⚡ Spring JDBC Executor
+         ↓
+ *🗄️ MySQL Database
+         ↓
+* 🤖 AI Response Formatter
+         ↓
+ *📊 Streamlit Dashboard
+
+---
+
+## 📸 Application Screenshots
 
 📌 Add your screenshots here (store inside /screenshots folder)
 
-🖥️ Dashboard UI (Streamlit)
+## 🖥️ Dashboard UI (Streamlit)
 
 📍 URL: http://localhost:8501
 
