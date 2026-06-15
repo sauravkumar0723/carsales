@@ -328,10 +328,9 @@ Java | Spring Boot | Backend Developer | REST APIs | MATTPLOT| Juypter notebook 
 
 ## ⭐ Project Status
 
-✔ Completed
-✔ Fully Functional
-✔ Portfolio Ready
-✔ Recruiter Friendly
+* Completed
+* Fully Functional
+* Recruiter Friendly
 
 ---
 
