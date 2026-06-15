@@ -87,13 +87,14 @@ It provides:
 👉 View AI Flow Screenshot
    ![Dashboard](screenshots/dashboard.png)
    
-🧩 Tech Stack
-⚙️ Backend
-Java 17+
-Spring Boot
-Spring AI
-Spring JDBC
-REST APIs
+## 🧩 Tech Stack
+
+⚙️ Backend  
+- Java 17+  
+- Spring Boot  
+- Spring AI  
+- Spring JDBC  
+- REST APIs  
 🧠 AI Layer
 Ollama
 LLaMA 3 (Local LLM)
